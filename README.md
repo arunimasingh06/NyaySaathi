@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+🛡️ ChainWatch
 
-## Project info
+ChainWatch is an advanced blockchain investigation platform built to help law enforcement and regulatory agencies monitor, analyze, and trace suspicious cryptocurrency transactions in real time — even across decentralized networks.
+By combining on-chain analytics, AI-driven risk scoring, and pseudonymous identity linking, ChainWatch provides the intelligence and tools necessary to track illicit activity, uncover hidden connections, and support digital asset investigations.
 
-**URL**: https://lovable.dev/projects/0b42e2bb-ab00-4a7f-89c9-f3d223d10ece
 
-## How can I edit this code?
+🚀 Key Features
 
-There are several ways of editing your application.
+🔍 Real-Time Transaction Monitoring
+Live feed of blockchain transactions with continuous analysis
+Intelligent alert system for detecting high-risk or suspicious activity
+Filter and search by wallet address, transaction amount, or network
 
-**Use Lovable**
+📊 Risk Scoring & Analytics
+AI-powered risk assessment for addresses and transactions
+Visual risk heatmaps for quick threat identification
+Customizable scoring rules based on investigation needs
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0b42e2bb-ab00-4a7f-89c9-f3d223d10ece) and start prompting.
+🧬 Address Explorer & Identity Linking
+Explore transaction history and relationships between wallets
+Link pseudonymous blockchain addresses to KYC-verified identities (when available)
+Visual graph views for mapping complex fund flows
 
-Changes made via Lovable will be committed automatically to this repo.
+🗂️ Case Management System
+Organize investigations and track progress in one place
+Add notes, evidence, and linked addresses to each case
+Export investigation reports for compliance or legal use
 
-**Use your preferred IDE**
+📈 Interactive Visualization Dashboard
+Clean, data-rich interface designed for investigators
+Real-time charts, graphs, and network maps
+Dark mode with security-focused aesthetics for long investigation sessions
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🧠 Use Cases
 
-Follow these steps:
+Financial Crime Investigations – Trace illicit funds linked to fraud, scams, or darknet activity.
+AML & Compliance – Monitor suspicious patterns and fulfill reporting obligations.
+Regulatory Enforcement – Support audits and enforcement actions with verifiable blockchain intelligence.
+Threat Intelligence – Detect early signs of money laundering or terror financing across crypto networks.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🖥️ Tech Overview
 
-# Step 3: Install the necessary dependencies.
-npm i
+ChainWatch is designed as a modular platform, making it scalable and adaptable for various agencies and investigation needs.
+Core components include:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Transaction Monitoring Engine – Real-time ingestion and analysis of blockchain data
+AI Risk Scoring Module – Machine-learning-based risk assessment
+Address Intelligence Layer – Identity linking and relationship mapping
+Case Management Backend – Investigation and evidence tracking system
+Dashboard Frontend – Interactive visualization and alert interface
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📁 Project Roadmap (v1.0 → Future)
 
-**Use GitHub Codespaces**
+✅ Real-time monitoring and alert system
+✅ Risk scoring and analytics engine
+✅ Address explorer and visualization tools
+✅ Case management dashboard
+🔄 Multi-chain support (upcoming)
+🔄 API integrations with KYC providers
+🔄 Automated report generation
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+⚖️ Disclaimer
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0b42e2bb-ab00-4a7f-89c9-f3d223d10ece) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+ChainWatch is a tool designed exclusively for lawful investigative and regulatory purposes. Use of this platform must comply with all applicable local, national, and international laws. Unauthorized use of this software for surveillance or unlawful tracking is strictly prohibited.
