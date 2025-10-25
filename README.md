@@ -1,6 +1,6 @@
 NyaySaathi
 
-NyaySaathi is an advanced blockchain investigation platform built to help law enforcement and regulatory agencies monitor, analyze, and trace suspicious cryptocurrency transactions in real time — even across decentralizd networks.
+NyaySaathi is an advanced blockchain investigation platform built to help law enforcement and regulatory agencies monitor, analyze, and trace suspicious cryptocurrency transactions in real time — even across decentralized networks.
 By combining on-chain analytics, AI-driven risk scoring, and pseudonymous identity linking, NyaySaathi provides the intelligence and tools necessary to track illicit activity, uncover hidden connections, and support digital asset investigations.
 
 🚀 Key Features
